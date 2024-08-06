@@ -1,0 +1,27 @@
+# Sistema de Gerenciamento de Tarefas
+
+**Status do Projeto:** Em desenvolvimento
+
+**Tecnologias Aplicadas:**
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+
+**Time de Desenvolvedores:**
+- Maria Silva
+- João Pereira
+- Ana Costa
+
+## Objetivo do Software
+
+O objetivo do software é criar uma plataforma para gerenciamento de tarefas diárias, permitindo aos usuários adicionar, editar e remover tarefas, bem como visualizar tarefas pendentes e concluídas.
+
+## Funcionalidades do Sistema (Requisitos)
+
+- **Cadastro de novas tarefas:** Os usuários poderão adicionar novas tarefas à lista.
+- **Edição e exclusão de tarefas:** Os usuários poderão editar e remover tarefas existentes.
+- **Visualização de tarefas:** Os usuários poderão visualizar a lista de tarefas, com a possibilidade de filtrar por tarefas pendentes ou concluídas.
+- **Marcação de tarefas como concluídas:** Os usuários poderão marcar tarefas como concluídas, movendo-as para uma seção separada.
